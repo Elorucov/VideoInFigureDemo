@@ -7,7 +7,7 @@
   IgnorableNamespaces="uap mp">
 
   <Identity
-    Name="22229d21-c678-40ec-a3f9-a334307b06ae"
+    Name="ELOR.VideoInFigureDemo"
     Publisher="CN=elor"
     Version="1.0.0.0" />
 
@@ -15,7 +15,7 @@
 
   <Properties>
     <DisplayName>VideoInFigureDemo</DisplayName>
-    <PublisherDisplayName>elor</PublisherDisplayName>
+    <PublisherDisplayName>ELOR</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
 
